@@ -81,10 +81,10 @@ L’adoption de bonnes pratiques simples peut considérablement réduire les ris
 
 
 ### 8. 📎 Ressources utiles
-
-* Phishing Quiz (Google)
-* Have I Been Pwned
-* Bitwarden
+* Support de présentation : [Télécharger](#)
+* Phishing Quiz (Google) : [Faire le test de fishing](https://phishingquiz.withgoogle.com/)
+* Have I Been Pwned : [Acceder au site] (https://haveibeenpwned.com/)
+* Bitwarden : [Télécharger](https://bitwarden.com/download/)
 
 
 ### 9. 📬 Contact
