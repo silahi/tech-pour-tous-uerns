@@ -81,7 +81,7 @@ L’adoption de bonnes pratiques simples peut considérablement réduire les ris
 
 
 ### 8. 📎 Ressources utiles
-* Support de présentation : [Télécharger](#)
+* Support de présentation : [Télécharger](https://raw.githubusercontent.com/silahi/tech-pour-tous-uerns/main/ressources/Cybersecurite_Session1_UERNS.pdf)
 * Phishing Quiz (Google) : [Faire le test de fishing](https://phishingquiz.withgoogle.com/)
 * Have I Been Pwned : [Acceder au site] (https://haveibeenpwned.com/)
 * Bitwarden : [Télécharger](https://bitwarden.com/download/)
