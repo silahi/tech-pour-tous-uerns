@@ -39,7 +39,6 @@ Cet atelier avait pour objectifs de :
 * Importance de la double authentification (2FA)
 * Vigilance face aux liens et messages suspects
 
----
 
 ### 4. 🛠️ Activités et outils utilisés
 
